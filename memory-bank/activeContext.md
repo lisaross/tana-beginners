@@ -5,6 +5,7 @@
 - Defining project scope and structure based on PRD
 - Creating memory bank documentation for collaborative work
 - Establishing GitHub workflow for content management
+- Implementing "Write Useful Books" methodology for accelerated guide creation
 
 ## Recent Changes
 - Created project repository
@@ -12,19 +13,20 @@
 - Set up memory bank structure
 - Created GitHub issue tags and workflow documentation
 - Defined content development workflow process
+- Added "Write Useful Books" approach for reader-centric, value-focused guide
 
 ## Next Steps
-1. **Research Phase**
-   - Gather existing Tana documentation and resources
-   - Interview non-technical Tana users about pain points
-   - Identify most challenging Tana concepts for beginners
-   - Create detailed chapter outlines
+1. **Define & Design Phase (1 week)**
+   - Conduct 5-7 interviews with non-technical Tana users
+   - Draft detailed table of contents with clear takeaways
+   - Create terminology glossary with plain language alternatives
+   - Design standard templates for chapters, examples, and exercises
 
-2. **Content Planning**
-   - Develop consistent terminology guidelines
-   - Create templates for chapter structure
-   - Design visual style guide for screenshots and diagrams
-   - Establish user personas for examples and use cases
+2. **Create Core Content Phase (3 weeks)**
+   - Write value-first chapters (Introduction, Getting Started, Practical Templates)
+   - Develop essential screenshots and visual aids
+   - Share with 5-10 beta readers for initial feedback
+   - Complete first drafts of remaining chapters
 
 3. **Development Setup**
    - Set up image directory structure
@@ -39,6 +41,7 @@
 - Selecting the optimal chapter sequence for progressive learning
 - Identifying the most valuable templates for target audience
 - Structuring the GitHub workflow for efficient content collaboration
+- Selecting beta readers from target audience personas
 
 ## Key Considerations
 - Content must remain accurate despite using simplified language
@@ -48,8 +51,11 @@
 - System must be maintainable as Tana evolves with new features
 - Content workflow must support clear tracking of progress
 - GitHub process must be accessible to non-technical team members
+- Early chapters must deliver immediate value to readers
+- Every page should have high value-per-page ratio
 
 ## Resources
 - `github-issue-tags.md`: Contains all issue tags for the content workflow
 - `github-issue-commands.md`: CLI commands for GitHub issue management
-- `content-workflow-guide.md`: Complete content development process guide 
+- `content-workflow-guide.md`: Complete content development process guide
+- `write-useful-books-approach.md`: Reader-centric methodology for guide creation 
