@@ -1,0 +1,61 @@
+# Cursor Rules for Tana for Real People
+
+## Project Patterns
+
+### Content Style
+- Use plain, conversational language (8th-grade reading level)
+- Avoid technical jargon; when necessary, introduce with plain language explanations
+- Use real-world analogies to explain complex concepts
+- Break complex processes into clear, numbered steps
+- Include "Try This" exercises to reinforce concepts
+
+### Terminology Preferences
+- Prefer "item" or "bullet point" over "node" when possible
+- Use "tag" instead of "supertag" for initial explanations
+- Compare "references" to "tagging someone in a photo"
+- Avoid technical terms like "graph," "bidirectional," or "database"
+
+### Visual Standards
+- Screenshots should be annotated with clear labels
+- Use consistent visual markers (colors, shapes) for UI elements
+- Include "before and after" examples for key operations
+- Diagrams should be simple and focus on relationships
+
+### Content Structure
+- Each chapter follows progression: concept → example → try it → build on it
+- Paragraphs limited to 3-4 sentences for readability
+- Use headers, lists, and tables to organize information
+- Include cross-references to related concepts
+
+### User-Centered Approach
+- Each concept should connect to a real-world use case
+- Examples should represent diverse user needs (students, professionals, personal)
+- Templates should be immediately usable without modification
+- Troubleshooting sections address common user challenges
+
+## User Personas
+
+1. **Sarah, 42, Marketing Manager**
+   - Comfortable with basic technology
+   - Needs to organize projects, client information, and ideas
+   - Currently uses a mix of notes apps and spreadsheets
+   - Feels overwhelmed by technical systems
+   - Values simplicity and practical solutions
+
+2. **Mark, 28, Graduate Student**
+   - Researching for dissertation
+   - Needs to organize literature, notes, and connections
+   - Familiar with reference managers but not coding
+   - Wants a system that grows with his research
+
+3. **Elena, 55, Small Business Owner**
+   - Limited technical background
+   - Needs to track customers, projects, and business ideas
+   - Currently using paper notebooks and basic digital tools
+   - Values simplicity and practical solutions
+
+## Project Workflow
+- Memory bank updated after major project milestones
+- PRD serves as the source of truth for project requirements
+- Follow progressive disclosure principle in documentation
+- Build templates based on tested user scenarios 
