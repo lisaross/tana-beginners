@@ -1,6 +1,6 @@
 # Define & Design Plan - Week 1
 
-This document outlines the detailed plan for the first week of our accelerated 8-week "Tana for Real People" guide development using the "Write Useful Books" methodology.
+This document outlines the detailed plan for the first week of our accelerated 8-week "Tana Simplified: Digital Organization for Everyone" guide development using the "Write Useful Books" methodology.
 
 ## Day 1-2: Interview Preparation & Execution
 

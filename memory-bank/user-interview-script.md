@@ -1,8 +1,8 @@
-# User Interview Script: Tana for Real People
+# User Interview Script: Tana Simplified: Digital Organization for Everyone
 
 ## Introduction (2-3 minutes)
 
-Hello and thank you for taking the time to speak with me today. I'm working on creating a guide called "Tana for Real People" that aims to make Tana more accessible to non-technical users.
+Hello and thank you for taking the time to speak with me today. I'm working on creating a guide called "Tana Simplified: Digital Organization for Everyone" that aims to make Tana more accessible to non-technical users.
 
 This interview will take about 30 minutes. I'm interested in learning about your experience with Tana - especially any challenges you faced when starting out and how you overcame them. There are no right or wrong answers; I'm simply looking to understand your personal experience.
 

@@ -1,6 +1,6 @@
-# Content Workflow Guide for "Tana for Real People"
+# Content Workflow Guide for "Tana Simplified: Digital Organization for Everyone"
 
-This guide outlines the complete content workflow process for creating the "Tana for Real People" guide, using GitHub for content management and version control.
+This guide outlines the complete content workflow process for creating the "Tana Simplified: Digital Organization for Everyone" guide, using GitHub for content management and version control.
 
 ## Content Development Lifecycle
 

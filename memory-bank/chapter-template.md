@@ -1,4 +1,4 @@
-# Chapter Template for "Tana for Real People"
+# Chapter Template for "Tana Simplified: Digital Organization for Everyone"
 
 This is a preliminary chapter template to be refined after user interviews. The template follows the "Write Useful Books" approach, front-loading value and maintaining high value-per-page ratio.
 

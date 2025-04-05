@@ -2,7 +2,7 @@
 
 ## Key Learnings from *Write Useful Books* by Rob Fitzpatrick
 
-Rob Fitzpatrick's *Write Useful Books* provides a structured, reader-centric approach to crafting nonfiction books that are impactful, engaging, and recommendable. Below are the key principles and strategies we'll use for the "Tana for Real People" guide:
+Rob Fitzpatrick's *Write Useful Books* provides a structured, reader-centric approach to crafting nonfiction books that are impactful, engaging, and recommendable. Below are the key principles and strategies we'll use for the "Tana Simplified: Digital Organization for Everyone" guide:
 
 ---
 
@@ -54,7 +54,7 @@ The guide is ready when:
 
 ---
 
-## Accelerated Workflow for "Tana for Real People"
+## Accelerated Workflow for "Tana Simplified: Digital Organization for Everyone"
 
 ### Phase 1: Define & Design (1 week)
 1. **Audience & Problem Validation**

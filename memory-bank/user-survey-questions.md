@@ -1,4 +1,4 @@
-# Tana for Real People - User Experience Survey
+# Tana Simplified: Digital Organization for Everyone - User Experience Survey
 
 This document outlines questions for a Typeform survey to collect insights from non-technical Tana users who cannot participate in full interviews. The survey is designed to take 10-15 minutes to complete.
 
@@ -8,7 +8,7 @@ This document outlines questions for a Typeform survey to collect insights from 
 
 Thank you for taking the time to share your experience with Tana! This survey will take about 10-15 minutes to complete.
 
-Your insights will directly shape a new guide called "Tana for Real People" aimed at making Tana more accessible to non-technical users. All responses are confidential, and you can skip any question you prefer not to answer.
+Your insights will directly shape a new guide called "Tana Simplified: Digital Organization for Everyone" aimed at making Tana more accessible to non-technical users. All responses are confidential, and you can skip any question you prefer not to answer.
 
 As a thank you, you'll receive early access to the guide when it's ready.
 
@@ -136,7 +136,7 @@ As a thank you, you'll receive early access to the guide when it's ready.
 
 21. **What's the ONE feature of Tana you wish someone had explained better when you were starting out?** (Open text)
 
-22. **Would you be interested in reviewing early drafts of the "Tana for Real People" guide?** (Yes/No)
+22. **Would you be interested in reviewing early drafts of the "Tana Simplified: Digital Organization for Everyone" guide?** (Yes/No)
 
 23. **If yes, please provide your email address** (Email field, optional)
 
@@ -146,7 +146,7 @@ As a thank you, you'll receive early access to the guide when it's ready.
 
 Thank you for taking the time to share your experience! Your insights will be invaluable in creating a guide that helps make Tana more accessible to everyone.
 
-You'll receive early access to "Tana for Real People" when it's ready. If you provided your email address, we'll be in touch about reviewing early drafts.
+You'll receive early access to "Tana Simplified: Digital Organization for Everyone" when it's ready. If you provided your email address, we'll be in touch about reviewing early drafts.
 
 If you have any questions or additional thoughts, please contact [your_email@example.com].
 

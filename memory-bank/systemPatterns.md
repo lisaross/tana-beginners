@@ -1,7 +1,7 @@
 # System Patterns
 
 ## Content Architecture
-The "Tana for Real People" guide follows a progressive disclosure architecture:
+The "Tana Simplified: Digital Organization for Everyone" guide follows a progressive disclosure architecture:
 
 1. **Core Chapters Structure**
    - Each chapter builds upon previous knowledge

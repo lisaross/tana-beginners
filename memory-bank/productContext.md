@@ -11,7 +11,7 @@ Many non-technical users find Tana's powerful features intimidating and struggle
 - Overcome the initial learning curve to reach proficiency
 
 ## Solution
-"Tana for Real People" addresses these challenges by:
+"Tana Simplified: Digital Organization for Everyone" addresses these challenges by:
 - Translating technical concepts into everyday language
 - Providing practical, real-world examples and use cases
 - Creating step-by-step guides with visual support
@@ -32,4 +32,4 @@ Many non-technical users find Tana's powerful features intimidating and struggle
 4. **Troubleshooting and adapting**: Users can identify and fix common issues in their setups
 
 ## Value Proposition
-"Tana for Real People" will be the bridge that helps non-technical users harness the power of Tana without being overwhelmed by its complexity, enabling them to build personalized systems that actually improve their productivity and organization. 
+"Tana Simplified: Digital Organization for Everyone" will be the bridge that helps non-technical users harness the power of Tana without being overwhelmed by its complexity, enabling them to build personalized systems that actually improve their productivity and organization. 

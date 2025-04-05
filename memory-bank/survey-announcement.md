@@ -1,12 +1,12 @@
-# Survey Announcement for "Tana for Real People"
+# Survey Announcement for "Tana Simplified: Digital Organization for Everyone"
 
 ## Forum/Discord Post
 
-**Subject: Share Your Tana Experience - Quick Survey for "Tana for Real People" Guide**
+**Subject: Share Your Tana Experience - Quick Survey for "Tana Simplified: Digital Organization for Everyone" Guide**
 
 Hello Tana Community!
 
-I'm creating a guide called **"Tana for Real People"** aimed at making Tana more accessible to non-technical users. Your experience is incredibly valuable for this project!
+I'm creating a guide called **"Tana Simplified: Digital Organization for Everyone"** aimed at making Tana more accessible to non-technical users. Your experience is incredibly valuable for this project!
 
 ### 📋 Quick 10-Minute Survey
 
@@ -45,11 +45,11 @@ Thank you for helping make Tana more accessible to everyone!
 
 ## Email Version
 
-**Subject: Your Tana Experience Wanted - Quick Survey for New User Guide**
+**Subject: Share Your Tana Experience - Quick Survey for "Tana Simplified: Digital Organization for Everyone" Guide**
 
-Hello,
+Hello Tana Users,
 
-I'm reaching out to Tana users who might be willing to share their experience through a quick 10-15 minute survey. Your insights will directly shape **"Tana for Real People"** - a new guide aimed at making Tana more accessible to non-technical users.
+I'm creating a guide called **"Tana Simplified: Digital Organization for Everyone"** aimed at making Tana more accessible to non-technical users. Your experience is incredibly valuable for this project!
 
 **Why your feedback matters:**
 Many people find powerful tools like Tana intimidating at first. By sharing your journey, challenges, and breakthroughs, you'll help create a resource that makes the learning curve gentler for others.
@@ -79,13 +79,13 @@ Best regards,
 
 **Twitter/LinkedIn:**
 
-📋 Use #Tana for notes, projects, or knowledge management? Share your experience in this 10-min survey to help create "Tana for Real People" - a guide for non-technical users. Early access for participants! [Link] #PersonalProductivity #PKM
+📋 Use #Tana for notes, projects, or knowledge management? Share your experience in this 10-min survey to help create "Tana Simplified: Digital Organization for Everyone" - a guide for non-technical users. Early access for participants! [Link] #PersonalProductivity #PKM
 
 **Longer Social Post:**
 
 🔍 **CALLING ALL TANA USERS**
 
-I'm creating "Tana for Real People" - a guide to make this powerful tool accessible to everyone, especially those without technical backgrounds.
+I'm creating "Tana Simplified: Digital Organization for Everyone" - a guide to make this powerful tool accessible to everyone, especially those without technical backgrounds.
 
 → Take this 10-minute survey to share your experience: [Link]
 

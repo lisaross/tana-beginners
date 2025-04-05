@@ -167,7 +167,7 @@ gh issue edit {issue-number} --milestone {milestone-id}
 # First create project
 gh api graphql -f query='
 mutation {
-  createProject(input: {ownerId: "OWNER_ID", name: "Tana for Real People", body: "Content development tracking"}) {
+  createProject(input: {ownerId: "OWNER_ID", name: "Tana Simplified: Digital Organization for Everyone", body: "Content development tracking"}) {
     project {
       id
       number
